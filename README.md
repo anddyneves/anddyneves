@@ -5,7 +5,7 @@
 
 - 🧑🏽‍💻 Sou dev back-end
 - 💛 Co-fundadora [perifaCode](perifacode.com)
-- 📚 Atualmente estudo .NET Core e SQLServer
+- 📚 Atualmente estudo .NET Core, SQLServer e outras ferramentas
 - 🌎 Moro no Brasil
 
 ## Meus Status
@@ -29,4 +29,3 @@
 
 ## Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/backanddy/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](twitter.com/backanddy)
-
